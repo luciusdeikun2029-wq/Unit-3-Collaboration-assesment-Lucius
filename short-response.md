@@ -1,0 +1,4 @@
+1. The first thing that each of the team members need to do would be to merge their work its important to do this step so that the work done can be graded in a group form not seperated.
+2.  Developers use branches to create sepreate lines of work and expermintation without having concequences of affecting the main branch.
+3. Git is a version control system. Github is a web based platform sort of acts as a central hub. Git and Github work together by combining versions with cloud based platform for better collaboration. 
+4. the line "Git commit -m "saving work" and the line "git push" are wrong because when using git commit where saving work is typed it should be typed "added files" and with git push it must be set upstream to oriigin to save and naming the branch wanted to be set upstream. 
